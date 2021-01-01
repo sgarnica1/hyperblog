@@ -53,6 +53,8 @@ header .header-title {
   padding: 2rem;
   border: 1px #333333 solid;
   border-radius: 1rem;
+  display: flex;
+  align-items: center;
 }
 #post h1 {
   font-size: 3.2rem;
