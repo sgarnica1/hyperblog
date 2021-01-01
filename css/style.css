@@ -53,13 +53,16 @@ header {
 footer {
   width: 100vw;
   min-height: 10vh;
-  background-color: #3c3d68;
+  background-color: whitesmoke;
   margin-top: 3rem;
-  color: whitesmoke;
+  color: rgb(64, 64, 121);
   padding: 2rem;
   display: flex;
   justify-content: center;
   align-content: center;
+  border-top: solid 1px rgb(187, 187, 187);
+  position: absolute;
+  bottom: 0;
 }
 .footer-section .footer-message {
   font-size: 1.4rem;
